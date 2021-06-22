@@ -2,7 +2,6 @@
 
 Hi There! I'm Alan Mauricio!
 
-## About me
 Software engenier at IBM. 
 
 I really love learning new technologiesand challenges. 
