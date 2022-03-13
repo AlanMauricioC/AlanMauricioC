@@ -11,6 +11,7 @@ I have interest on front end development and machine learning.
 
 ## Projects
 * Ecomerce platform
+* large scale web apps
 ## Tech Stack
 ### Front End
 * WEB (CSS/HTML/JS)
