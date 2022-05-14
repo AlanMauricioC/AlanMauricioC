@@ -46,9 +46,11 @@ I have [my personal website](https://alanmauricioc.github.io/portfolio/) (it sti
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="esLint" alt="esLint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+---
 
+### :fire: My Stats :
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlanMauricioC&theme=dark)](https://git.io/streak-stats)
   
-## Experience
 
 ## Projects
 * Ecomerce platform
