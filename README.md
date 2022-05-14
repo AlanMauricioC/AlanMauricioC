@@ -55,7 +55,7 @@ I have [my personal website](https://alanmauricioc.github.io/portfolio/) (it sti
 
 ## Projects
 * Ecomerce platform
-* large scale web apps
+* Large scale web apps
 
 ## Education
 Computer science degree
