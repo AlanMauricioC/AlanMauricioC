@@ -51,6 +51,7 @@ I have [my personal website](https://alanmauricioc.github.io/portfolio/) (it sti
 ### :fire: My Stats :
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlanMauricioC&theme=dark)](https://git.io/streak-stats)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMauricioC&layout=compact&theme=vision-friendly-dark)](https://github.com/AlanMauricioC/github-readme-stats)
 
 ## Projects
 * Ecomerce platform
