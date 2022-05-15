@@ -55,7 +55,9 @@ I have [my personal website](https://alanmauricioc.github.io/portfolio/) (it sti
 
 ## Projects
 * Ecomerce platform
-* Large scale web apps
+* CRM platform
+* Scalper app
+* Migration of apps
 
 ## Education
 Computer science degree
