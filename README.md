@@ -22,11 +22,12 @@
 
 ---
 ### :man_technologist: About me :D
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico. Software engenier at UNOSQUARE. 
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico. Software engineer at UNOSQUARE. 
 
 :telescope: Really love learning new technologies and challenges. OSS enthusiast.
 
-Today I work as frontend 🖥️ and backend 🏗️ development. also I'm interested machine learning and computer vision 💻👀.
+Today I work as frontend developer 🖥️ but also know backend 🏗️ development. I'm quite interested machine learning and computer vision 💻👀.
 
 I have [my personal website](https://alanmauricioc.github.io/portfolio/) (it still wip 👀)
 
