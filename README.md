@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 Today I work as frontend developer 🖥️ but also know backend 🏗️ development. I'm quite interested machine learning and computer vision 💻👀.
 
-I have [my personal website](https://alanmauricioc.github.io/portfolio/) (it still wip 👀)
+I have [my personal website](https://alanmauricioc.github.io/portfolio/) (it's still wip 👀)
 
 :mailbox:Contact me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alan-mauricio-carrasco-p%C3%A9rez-474999182/)
 
